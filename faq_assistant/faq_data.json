@@ -1,0 +1,105 @@
+{
+  "institution": "Evergreen State University - Department of Computer Science",
+  "academic_year": "2026-2027",
+  "description": "Official Course and College Administrative FAQ Knowledge Base. Clearly editable sample data for academic administrators.",
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "Attendance",
+      "question": "What is the minimum attendance requirement to be eligible for final examinations?",
+      "answer": "Students are strictly required to maintain a minimum of 75% attendance in both lecture sessions and laboratory hours to be eligible to sit for the semester end examinations. Students with attendance between 65% and 74% due to documented medical grounds or official university duty may apply for medical condonation through the Dean of Student Affairs with appropriate hospital certificates. Students below 65% attendance are not eligible for condonation and must repeat the course.",
+      "keywords": ["attendance", "minimum", "eligibility", "75%", "condonation", "medical", "dean", "shortage", "repeat", "absent", "miss classes", "percentage", "tests", "semester tests"]
+    },
+    {
+      "id": "faq_002",
+      "category": "Attendance",
+      "question": "What is the procedure if I miss classes due to medical reasons or emergencies?",
+      "answer": "If you miss classes due to illness, you must inform your course instructor within 48 hours of the absence and submit an official Medical Certificate along with a leave application signed by your academic advisor to the department office within 7 days of returning to campus. Verified medical leaves are considered for attendance condonation at the end of the semester.",
+      "keywords": ["medical leave", "emergency", "sick", "doctor note", "hospital", "condonation", "absence", "48 hours"]
+    },
+    {
+      "id": "faq_003",
+      "category": "Assignment",
+      "question": "What is the policy on late assignment submissions and penalties?",
+      "answer": "Assignments must be submitted via the university learning portal by 11:59 PM on the specified due date. Late submissions incur a penalty of 10% deduction per calendar day up to a maximum of 3 days (30% total penalty). Submissions delayed beyond 72 hours from the deadline will receive an automatic zero mark. No late submissions are accepted for the final capstone project.",
+      "keywords": ["late assignment", "homework", "midnight", "leniency", "penalty", "deadline", "10%", "submission", "due date", "grace period", "zero mark"]
+    },
+    {
+      "id": "faq_004",
+      "category": "Assignment",
+      "question": "What are the rules regarding collaboration and plagiarism on programming assignments?",
+      "answer": "All code submissions are processed through automated plagiarism detection systems (such as MOSS). High-level conceptual discussions with peers are permitted, but sharing code, copying solutions from the internet or AI code generators without citation, or submitting another student's work constitutes academic misconduct. First offenses result in an automatic zero for the assignment and notification to the Academic Integrity Board.",
+      "keywords": ["plagiarism", "collaboration", "cheating", "moss", "academic integrity", "copying code", "ai code", "misconduct"]
+    },
+    {
+      "id": "faq_005",
+      "category": "Examination",
+      "question": "What is the midterm and final examination schedule and what items are allowed in the exam hall?",
+      "answer": "Midterm examinations take place during Week 8, and Final Comprehensive Examinations occur during Weeks 15-16. Exact dates and room allocations are posted on the student portal two weeks in advance. Students must carry their Physical Student ID card and Admit Card. Only non-programmable scientific calculators and pens are allowed unless the exam is explicitly designated as open-book. Smartwatches, cellphones, and unauthorized notes are strictly prohibited.",
+      "keywords": ["midterm", "final exam", "schedule", "exam hall", "admit card", "id card", "calculator", "cellphone", "prohibited", "test"]
+    },
+    {
+      "id": "faq_006",
+      "category": "Examination",
+      "question": "What should I do if I miss a midterm or final exam due to unavoidable emergencies?",
+      "answer": "A student who misses a midterm examination due to certified medical hospitalization or bereavement in the immediate family must submit an official petition to the Department Chair within 3 business days. If approved, a single Comprehensive Make-Up Exam will be scheduled during the penultimate week of classes. No make-up exams are granted for casual travel or unexcused absences.",
+      "keywords": ["missed exam", "make-up exam", "emergency", "re-exam", "petition", "department chair", "hospitalization"]
+    },
+    {
+      "id": "faq_007",
+      "category": "Examination",
+      "question": "How can I request a grade re-evaluation or review an exam paper?",
+      "answer": "Students may request an exam paper review or grade re-evaluation within 10 calendar days of the publication of provisional results. A formal Grade Grievance Form must be filed through the Registrar's portal with a fee of $25 per course (refundable if the grade is improved). The department forms a two-faculty committee to independently regrade the script.",
+      "keywords": ["re-evaluation", "regrade", "grade grievance", "review paper", "registrar", "fee", "10 days"]
+    },
+    {
+      "id": "faq_008",
+      "category": "Course Content",
+      "question": "What is the syllabus structure and grading weightage breakdown for CS courses?",
+      "answer": "Core computer science courses follow a 100-point total grading distribution: 20% Assignments and Quizzes, 20% Laboratory Practical Assessments, 25% Midterm Examination, and 35% Final Examination. A minimum combined score of 45% with at least 40% in the final exam is required to obtain a passing grade (C or higher).",
+      "keywords": ["grading breakdown", "weightage", "letter grade", "internals", "midterm weight", "final exam weight", "passing grade", "syllabus", "homework weight"]
+    },
+    {
+      "id": "faq_009",
+      "category": "Course Content",
+      "question": "What are the textbook recommendations and prerequisite requirements for CS102 Data Structures?",
+      "answer": "CS102 requires a minimum grade of 'C' in CS101 Introduction to Programming (Python/C++). The primary prescribed textbook is 'Data Structures and Algorithms in Python' by Goodrich, Tamassia, and Goldwasser, with supplementary reading from 'Introduction to Algorithms' (CLRS). Lecture slides and coding skeleton repositories are distributed via GitHub Classroom.",
+      "keywords": ["prerequisite", "textbook", "data structures", "cs102", "cs101", "goodrich", "clrs", "github classroom"]
+    },
+    {
+      "id": "faq_010",
+      "category": "Course Content",
+      "question": "What are the computer laboratory protocols, safety rules, and software access policies?",
+      "answer": "Computer laboratories are accessible from 8:00 AM to 9:00 PM on weekdays. Food, drinks (except closed water bottles), and loud conversations are strictly forbidden. Students must log in using their student university credentials and save work to cloud drives; local machine storage is wiped nightly. For hardware robotics/embedded labs, closed-toe shoes and safety glasses are mandatory.",
+      "keywords": ["lab rules", "computer lab", "embedded", "robotics", "safety", "lab hours", "credentials", "cloud drive", "closed-toe shoes", "safety glasses"]
+    },
+    {
+      "id": "faq_011",
+      "category": "General",
+      "question": "When and how can I consult course instructors and teaching assistants during office hours?",
+      "answer": "Instructors hold designated office hours twice weekly (Tuesdays and Thursdays, 2:00 PM - 4:00 PM in CS Building Wing B). Teaching assistants conduct daily help desks in Lab Room 304 from 4:00 PM to 6:00 PM. For one-on-one appointments outside these hours, email your professor at least 24 hours in advance with your student ID and specific topic of discussion.",
+      "keywords": ["office hours", "consultation", "professor", "ta", "teaching assistant", "appointment", "help desk"]
+    },
+    {
+      "id": "faq_012",
+      "category": "General",
+      "question": "What are the course add/drop deadlines and tuition refund timelines for the semester?",
+      "answer": "Students may freely add or drop courses without academic penalty during the first two weeks of the semester (Add/Drop Period). Dropping a course between Week 3 and Week 7 results in a 'W' (Withdrawal) grade on the transcript with no GPA impact. No courses may be dropped after the end of Week 7. Full tuition refund applies within Week 1, 50% refund within Week 2, and 0% thereafter.",
+      "keywords": ["add drop", "withdraw", "w grade", "deadline", "tuition refund", "week 2", "week 7"]
+    },
+    {
+      "id": "faq_013",
+      "category": "General",
+      "question": "What are the campus library borrowing limits, digital access, and overdue policies?",
+      "answer": "Undergraduate students may borrow up to 6 physical books for a duration of 21 days with one online renewal allowed if no hold exists. Digital research papers and IEEE/ACM libraries are accessible remotely through the university VPN. Overdue books incur a fine of $0.50 per day per book. Damaged or lost items must be replaced or compensated at full list price plus a $15 processing charge.",
+      "keywords": ["library", "borrow books", "limit", "fine", "overdue", "ieee", "acm", "digital library", "vpn", "books"]
+    },
+    {
+      "id": "faq_014",
+      "category": "General",
+      "question": "What tutoring and academic support services are available for struggling students?",
+      "answer": "The University Academic Success Center provides free peer tutoring, coding mentoring, and study groups for all foundational CS courses. Drop-in peer tutoring is available Monday through Friday from 10:00 AM to 6:00 PM in the Student Commons 2nd Floor, or appointments can be booked via the Student Success portal.",
+      "keywords": ["tutoring", "academic support", "peer tutor", "mentor", "study group", "success center"]
+    }
+  ]
+}
